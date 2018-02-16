@@ -1,6 +1,6 @@
 //
 //  RepositoryTableViewCell.swift
-//  AgileContentCodingTest
+//  GitHub Viewer
 //
 //  Created by João Leite on 15/02/18.
 //  Copyright © 2018 João Leite. All rights reserved.
